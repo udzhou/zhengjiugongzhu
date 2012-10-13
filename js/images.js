@@ -1,0 +1,39 @@
+/**
+ * @author udzhou
+ */
+var bgImage = new Image();
+var startImage = new Image();
+var chooseImage = new Image();
+var level1Image = new Image();
+var level2Image = new Image();
+var frogImage = new Image();
+var frog2Image = new Image();
+var snakeImage = new Image();
+var snake2Image = new Image();
+var eagleImage = new Image();
+var eagle2Image = new Image();
+var foodImage = new Image();
+var scoreImage = new Image();
+var panelImage = new Image();
+var menuImage = new Image();
+var nextImage = new Image();
+var againImage = new Image();
+var quitImage = new Image();
+againImage.src = "images/again.png";
+quitImage.src = "images/quit.png";
+nextImage.src = "images/next.png";
+panelImage.src = "images/panel.png";
+menuImage.src = "images/menu.png";
+foodImage.src = "images/food.png";
+scoreImage.src = "images/score.png";
+eagleImage.src = "images/eagle.png";
+eagle2Image.src = "images/eagle2.png";
+snake2Image.src = "images/snake2.png";
+snakeImage.src = "images/snake.png";
+bgImage.src = "images/background.jpg";
+startImage.src = "images/start.png";
+chooseImage.src = "images/choose.jpg";
+level1Image.src = "images/level1.jpg";
+level2Image.src = "images/level2.jpg";
+frogImage.src = "images/frog.png";
+frog2Image.src = "images/frog2.png";
